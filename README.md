@@ -6,7 +6,7 @@ It is an unwritten rule that pop songs should be no longer than 3 minutes. Why? 
 
 Did Arctic Monkeys, after taking Britain by storm with their debut, stop making radio hits? 
 
-# Technologies
+# Technologies used
 
 - Python
 - Pandas
