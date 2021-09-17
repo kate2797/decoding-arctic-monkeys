@@ -1,8 +1,12 @@
 # Decoding Arctic Monkeys
 
-I have been watching album reviews recently and one reviewer mentioned that the length of tracks on Arctic Monkeys third record called Humbug is pretty generous (e.g. 5:44 in the case of The Jeweller's Hands or 4:44 in Dance Little Liar).
+“All pop songs may not sound the same, but most are close to the same length.” – [Ben McKinney(https://www.vox.com/2014/8/18/6003271/why-are-songs-3-minutes-long) 
 
-Considering the fact that a typical "radio hit" is usually no more than 3 and a half minutes, this got me thinking if there is some pattern to the length of tracks by Arctic Monkeys as I remember that the songs featured of their debut album Whatever People Say I Am, That's What I'm Not were much shorter. And by the way, I'm a big Arctic Monkeys fan...
+It is an unwritten rule that pop songs should be no longer than 3 minutes. Why? The length of 3 minutes very radio-friendly. 
+
+While a popular YouTube music reviewer known as [Brad Taste in Music](https://www.youtube.com/channel/UChwbfG8UvnLOJ_WgRiAaPBA) pointed out that the length of tracks on Arctic Monkeys third record Humbug is quite generous (e.g., 5:44 in the case of The Jeweller's Hands or 4:44 in Dance Little Liar), the songs featured of their debut album Whatever People Say I Am, That's What I'm No were much shorter. We are mostly talking 2:21 to 3:15 minutes. 
+
+Did Arctic Monkeys, after taking Britain by storm with their debut, stop making radio hits? 
 
 # Technologies
 
