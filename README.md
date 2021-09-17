@@ -1,6 +1,6 @@
 # Decoding Arctic Monkeys
 
-“All pop songs may not sound the same, but most are close to the same length.” – [Ben McKinney(https://www.vox.com/2014/8/18/6003271/why-are-songs-3-minutes-long) 
+“All pop songs may not sound the same, but most are close to the same length.” – [Ben McKinney](https://www.vox.com/2014/8/18/6003271/why-are-songs-3-minutes-long) 
 
 It is an unwritten rule that pop songs should be no longer than 3 minutes. Why? The length of 3 minutes very radio-friendly. 
 
